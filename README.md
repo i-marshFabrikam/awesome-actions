@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/i-marsh/491a017f-e32a-45e3-a1d2-520b22edb7a1/3f9b31ac-2af1-41ac-893c-54a1b52220c3/_apis/work/boardbadge/e511a120-e25e-4cae-9ca7-d26403abbefb)](https://dev.azure.com/i-marsh/491a017f-e32a-45e3-a1d2-520b22edb7a1/_boards/board/t/3f9b31ac-2af1-41ac-893c-54a1b52220c3/Microsoft.RequirementCategory)
 # awesome-actions
 
 Awesome actions is a repository template that comes with pre-configured GitHub Actions that
